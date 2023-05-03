@@ -1,0 +1,5 @@
+body{background-color:rgb(123, 197, 175);}
+hr{border-style:none; width: 30%;
+    border-top-style: dotted;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px; }
